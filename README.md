@@ -7,8 +7,8 @@ Web application security scanner is web application used to scan web application
 
 technology stack
 
-frontend- HTML5, CSS3, JavaScript, Jquery
-middle layer- python
-backend- MongoDB
+**frontend- HTML5, CSS3, JavaScript, Jquery
+**middle layer- python
+**backend- MongoDB
 
 For security reasons and possio=bility of malicious use complete code is not provided.
