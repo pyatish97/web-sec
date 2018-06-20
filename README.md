@@ -11,4 +11,4 @@ Frontend- HTML5, CSS3, JavaScript, Jquery.
 Middle layer- python.
 Backend- MongoDB
 
-For security reasons and possio=bility of malicious use complete code is not provided.
+For security reasons and possibility of malicious use complete code is not provided.
